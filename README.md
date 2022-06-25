@@ -1,1 +1,1 @@
-# odin-webpage-from-scratch
+Webpage project from Odin-Project curriculum
